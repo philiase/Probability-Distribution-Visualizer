@@ -62,4 +62,3 @@ For each distribution, you can input the required parameters and generate the co
 ## Author
 
 This script was authored by Lebuso Philly Tsilo.
-```
